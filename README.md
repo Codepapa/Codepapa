@@ -1,9 +1,11 @@
-### Hi there 👋
 
-<!--
-**Codepapa/Codepapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Welcome to Codepapa's Github ✨
 
-Here are some ideas to get you started:
+<div align="center">
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Codepapa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,10 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<div align="center">
-
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Codepapa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-</div>
